@@ -1,0 +1,69 @@
+.hh{
+    font-size:48px;;
+    font-family: Kaisei Decol;
+    color: midnightblue;
+    z-index:2;
+ }
+p, ol, ul{
+    font-size:28px;;
+    font-family: Inter;
+    color: rgb(19, 19, 29);
+}
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+  
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  .section {
+    padding: 1rem 4rem;
+}
+
+h4{
+  font-size:28px;;
+  font-family: Kaisei Decol;
+  color: rgb(20, 64, 7);
+  text-align: center;
+}
+
+#grp1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+  }
+  #grp2 {
+    position: absolute;
+    left: -1px;
+    top: 0px;
+    z-index: -1;
+    margin-top: 32cm;
+    height: 800px;
+    width: 700px;
+  }
+  #grp3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    margin-top: 56cm;
+    margin-left:23cm;
+  }
+  
+  #pic {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
+  }
+  #bc {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index:-1;}
